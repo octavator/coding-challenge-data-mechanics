@@ -1,5 +1,13 @@
 # coding-challenge-data-mechanics
 
+## To simply test
+
+```
+npm install && npm run serve
+```
+
+and then visit the url http://localhost:8080/#/
+
 ## Project setup
 ```
 npm install
